@@ -5,6 +5,5 @@ import org.springframework.stereotype.Controller;
 
 @Controller
 public class BoardController {
-	// 안녕? 
-	
+	// 안녕
 }
